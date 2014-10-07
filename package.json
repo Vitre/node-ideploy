@@ -1,6 +1,6 @@
 {
-    "name": "Ideploy",
-    "id": "Ideploy",
+    "name": "ideploy",
+    "id": "ideploy",
     "version": "0.1.0",
     "description": "Node.js deploy client",
     "keywords": [
@@ -21,6 +21,7 @@
         "url": "https://github.com/vitre/node-deploy/issues"
     },
     "dependencies": {
+        "ideploy": "~0.1",
         "jsftp": "~1.3.6",
         "extend": "~2.0.0",
         "fs-sync": "~0.2.5",
@@ -37,5 +38,7 @@
             "type": "MIT",
             "url": "https://github.com/vitre/node-ideploy/master/LICENSE"
         }
-    ]
+    ],
+    "_id": "ideploy@0.1.0",
+    "_from": "ideploy@~0.1.0"
 }
