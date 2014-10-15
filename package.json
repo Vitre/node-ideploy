@@ -26,7 +26,8 @@
     "extend": "~2.0.0",
     "fs-sync": "~0.2.5",
     "prompt": "~0.2.14",
-    "synchronize": "~0.9.8"
+    "synchronize": "~0.9.8",
+    "archiver": "~0.11.0"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
